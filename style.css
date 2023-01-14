@@ -101,4 +101,6 @@ body {
 .second-containers {
     display: flex;
     justify-content: center;
+    gap: 57px;
+    padding-bottom: 100px;
 }
