@@ -166,3 +166,10 @@ body {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+#ad-banner-sign-up-button {
+    background: #3882F6;
+    border: 2px solid #F9FAF8;
+    padding: 7px 32px;
+    border-radius: 8px;
+}
