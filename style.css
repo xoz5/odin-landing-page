@@ -23,6 +23,12 @@ body {
     padding: 130px 560px 100px;
 }
 
+.fourth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .first {
     width: 1030px;
     margin: auto;
