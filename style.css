@@ -68,3 +68,12 @@ body {
     width: 450px;
     padding-bottom: 12px;
 }
+
+#first-button {
+    background: #3882F6;
+    padding: 8px 35px;
+    border-radius: 8px;
+    color: #F9FAF8;
+    font-weight: 800;
+    font-size: 18px;
+}
