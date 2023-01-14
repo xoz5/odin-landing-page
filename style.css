@@ -20,7 +20,10 @@ body {
 
 .third {
     background: #E5E7EB;
-    padding: 130px 560px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 130px 0 100px;
 }
 
 .fourth {
@@ -135,6 +138,7 @@ body {
     color: #1F2937;
     font-style: italic;
     font-weight: 300;
+    width: 785px;
 }
 
 #thor-signature {
