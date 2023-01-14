@@ -57,6 +57,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #6d747d;
 }
 
 #hero-main-text {
