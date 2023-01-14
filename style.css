@@ -7,4 +7,13 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background: #1F2937;
+}
+
+.second, .fourth {
+    background: #fff;
+}
+
+.third {
+    background: #E5E7EB;
 }
