@@ -47,3 +47,11 @@ body {
     display: flex;
     padding-bottom: 135px;
 }
+
+.first-main-left {
+    flex: 1;
+}
+
+.first-main-right {
+    flex: 1;
+}
