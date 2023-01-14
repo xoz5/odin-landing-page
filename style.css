@@ -145,3 +145,10 @@ body {
     font-weight: 700;
     color: #1f2937;
 }
+
+.ad-banner {
+    width: 780px;
+    background: #3882F6;
+    padding: 55px 125px;
+    border-radius: 8px;
+}
