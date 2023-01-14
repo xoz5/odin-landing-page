@@ -112,3 +112,10 @@ body {
     align-items: center;
     width: 165px;
 }
+
+.box {
+    width: 165px;
+    height: 165px;
+    border: 4px solid #3b82f6;
+    border-radius: 16px;
+}
