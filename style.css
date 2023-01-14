@@ -22,3 +22,9 @@ body {
     width: 1030px;
     margin: auto;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
