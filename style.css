@@ -17,3 +17,8 @@ body {
 .third {
     background: #E5E7EB;
 }
+
+.first {
+    width: 1030px;
+    margin: auto;
+}
