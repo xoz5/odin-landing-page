@@ -39,4 +39,6 @@ body {
 #header-link-list {
     display: flex;
     gap: 24px;
+    color: #E5E7EB;
+    font-size: 18px;
 }
